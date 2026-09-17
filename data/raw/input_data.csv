@@ -1,0 +1,528 @@
+DATE,PRODUCT ID,QUANTITY,SALE TYPE,PAYMENT MODE,DISCOUNT %
+2021-01-01,P0024,9,Wholesaler,Online,0
+2021-01-02,P0038,15,Online,Cash,0
+2021-01-02,P0013,6,Direct Sales,Cash,0
+2021-01-03,P0004,5,Direct Sales,Online,0
+2021-01-04,P0035,12,Online,Online,0
+2021-01-09,P0031,1,Direct Sales,Cash,0
+2021-01-09,P0003,8,Direct Sales,Cash,0
+2021-01-09,P0025,4,Direct Sales,Online,0
+2021-01-11,P0037,3,Direct Sales,Cash,0
+2021-01-11,P0014,4,Wholesaler,Online,0
+2021-01-11,P0042,4,Direct Sales,Online,0
+2021-01-12,P0042,10,Online,Cash,0
+2021-01-18,P0044,13,Direct Sales,Online,0
+2021-01-18,P0023,3,Online,Cash,0
+2021-01-19,P0035,6,Direct Sales,Cash,0
+2021-01-20,P0034,4,Direct Sales,Cash,0
+2021-01-20,P0020,4,Direct Sales,Cash,0
+2021-01-21,P0004,15,Wholesaler,Cash,0
+2021-01-21,P0003,9,Direct Sales,Online,0
+2021-01-21,P0042,6,Direct Sales,Online,0
+2021-01-25,P0034,6,Direct Sales,Cash,0
+2021-01-25,P0035,7,Direct Sales,Online,0
+2021-01-25,P0031,14,Direct Sales,Online,0
+2021-01-26,P0044,9,Wholesaler,Cash,0
+2021-01-26,P0006,7,Online,Cash,0
+2021-01-26,P0001,7,Online,Online,0
+2021-01-27,P0040,7,Wholesaler,Online,0
+2021-01-27,P0032,3,Wholesaler,Online,0
+2021-01-28,P0004,10,Online,Cash,0
+2021-01-28,P0029,2,Direct Sales,Cash,0
+2021-02-02,P0010,7,Online,Online,0
+2021-02-03,P0016,13,Direct Sales,Online,0
+2021-02-03,P0022,2,Wholesaler,Cash,0
+2021-02-04,P0037,4,Online,Online,0
+2021-02-05,P0043,7,Online,Cash,0
+2021-02-05,P0005,1,Direct Sales,Cash,0
+2021-02-05,P0043,9,Direct Sales,Cash,0
+2021-02-06,P0035,1,Direct Sales,Cash,0
+2021-02-09,P0034,14,Direct Sales,Online,0
+2021-02-12,P0008,7,Direct Sales,Cash,0
+2021-02-12,P0023,9,Online,Cash,0
+2021-02-15,P0027,4,Direct Sales,Online,0
+2021-02-18,P0015,6,Online,Cash,0
+2021-02-20,P0030,11,Online,Cash,0
+2021-02-22,P0013,5,Online,Cash,0
+2021-02-23,P0025,3,Direct Sales,Cash,0
+2021-02-23,P0005,2,Direct Sales,Online,0
+2021-02-25,P0002,4,Wholesaler,Online,0
+2021-02-25,P0032,11,Online,Cash,0
+2021-02-25,P0030,2,Direct Sales,Online,0
+2021-02-27,P0018,11,Wholesaler,Online,0
+2021-03-03,P0011,1,Direct Sales,Online,0
+2021-03-07,P0021,9,Direct Sales,Cash,0
+2021-03-08,P0027,6,Online,Cash,0
+2021-03-08,P0044,9,Online,Online,0
+2021-03-09,P0029,6,Wholesaler,Online,0
+2021-03-11,P0025,11,Direct Sales,Cash,0
+2021-03-13,P0028,10,Wholesaler,Cash,0
+2021-03-15,P0039,11,Online,Cash,0
+2021-03-16,P0012,14,Direct Sales,Cash,0
+2021-03-18,P0042,8,Wholesaler,Cash,0
+2021-03-19,P0028,9,Online,Cash,0
+2021-03-21,P0020,13,Online,Online,0
+2021-03-21,P0039,7,Direct Sales,Online,0
+2021-03-22,P0002,8,Online,Online,0
+2021-03-22,P0012,4,Online,Online,0
+2021-03-25,P0024,14,Online,Cash,0
+2021-03-25,P0006,4,Direct Sales,Cash,0
+2021-03-25,P0029,8,Direct Sales,Cash,0
+2021-03-25,P0038,2,Direct Sales,Online,0
+2021-03-26,P0001,4,Direct Sales,Cash,0
+2021-03-26,P0042,1,Direct Sales,Cash,0
+2021-03-26,P0010,9,Direct Sales,Online,0
+2021-03-27,P0030,3,Direct Sales,Online,0
+2021-03-28,P0007,8,Online,Cash,0
+2021-03-30,P0038,1,Online,Cash,0
+2021-03-31,P0042,3,Direct Sales,Cash,0
+2021-04-04,P0040,4,Direct Sales,Cash,0
+2021-04-04,P0009,9,Online,Cash,0
+2021-04-05,P0031,15,Online,Online,0
+2021-04-09,P0005,3,Online,Online,0
+2021-04-10,P0022,14,Direct Sales,Online,0
+2021-04-12,P0037,3,Direct Sales,Cash,0
+2021-04-12,P0029,4,Direct Sales,Online,0
+2021-04-12,P0027,9,Direct Sales,Online,0
+2021-04-12,P0033,13,Direct Sales,Cash,0
+2021-04-15,P0017,3,Direct Sales,Online,0
+2021-04-16,P0018,15,Direct Sales,Cash,0
+2021-04-18,P0038,9,Wholesaler,Online,0
+2021-04-18,P0019,13,Direct Sales,Cash,0
+2021-04-23,P0042,6,Direct Sales,Online,0
+2021-04-23,P0028,10,Direct Sales,Online,0
+2021-04-24,P0030,2,Online,Online,0
+2021-04-26,P0037,3,Direct Sales,Online,0
+2021-04-29,P0030,7,Direct Sales,Online,0
+2021-04-30,P0029,1,Direct Sales,Online,0
+2021-05-01,P0018,3,Online,Cash,0
+2021-05-01,P0042,1,Online,Cash,0
+2021-05-03,P0034,3,Online,Online,0
+2021-05-04,P0015,13,Online,Online,0
+2021-05-04,P0014,4,Direct Sales,Cash,0
+2021-05-05,P0009,13,Direct Sales,Cash,0
+2021-05-06,P0008,15,Direct Sales,Online,0
+2021-05-06,P0009,6,Online,Online,0
+2021-05-07,P0018,1,Direct Sales,Cash,0
+2021-05-09,P0016,6,Online,Online,0
+2021-05-09,P0028,8,Direct Sales,Cash,0
+2021-05-12,P0016,3,Direct Sales,Online,0
+2021-05-12,P0035,15,Direct Sales,Online,0
+2021-05-13,P0029,4,Direct Sales,Online,0
+2021-05-20,P0042,2,Online,Cash,0
+2021-05-23,P0040,11,Direct Sales,Online,0
+2021-05-30,P0023,13,Online,Online,0
+2021-05-30,P0013,6,Online,Cash,0
+2021-06-03,P0021,10,Direct Sales,Cash,0
+2021-06-04,P0020,8,Wholesaler,Online,0
+2021-06-04,P0020,12,Online,Cash,0
+2021-06-05,P0022,15,Wholesaler,Online,0
+2021-06-05,P0035,10,Direct Sales,Online,0
+2021-06-06,P0033,6,Direct Sales,Online,0
+2021-06-08,P0028,11,Direct Sales,Online,0
+2021-06-08,P0004,11,Wholesaler,Cash,0
+2021-06-09,P0001,7,Direct Sales,Online,0
+2021-06-11,P0032,12,Wholesaler,Cash,0
+2021-06-12,P0041,6,Direct Sales,Online,0
+2021-06-14,P0025,10,Online,Cash,0
+2021-06-16,P0019,5,Wholesaler,Cash,0
+2021-06-16,P0015,12,Online,Cash,0
+2021-06-16,P0039,11,Direct Sales,Cash,0
+2021-06-18,P0025,13,Direct Sales,Cash,0
+2021-06-19,P0041,5,Direct Sales,Online,0
+2021-06-20,P0016,1,Wholesaler,Cash,0
+2021-06-23,P0016,4,Direct Sales,Online,0
+2021-06-24,P0011,13,Direct Sales,Online,0
+2021-06-26,P0009,7,Online,Online,0
+2021-06-27,P0005,11,Direct Sales,Cash,0
+2021-06-28,P0021,2,Online,Cash,0
+2021-06-28,P0035,7,Online,Online,0
+2021-06-29,P0014,4,Direct Sales,Online,0
+2021-07-01,P0005,11,Direct Sales,Cash,0
+2021-07-02,P0010,11,Direct Sales,Cash,0
+2021-07-03,P0033,9,Online,Cash,0
+2021-07-03,P0003,8,Online,Cash,0
+2021-07-05,P0002,8,Direct Sales,Online,0
+2021-07-06,P0041,15,Direct Sales,Cash,0
+2021-07-08,P0004,10,Direct Sales,Online,0
+2021-07-10,P0034,6,Wholesaler,Cash,0
+2021-07-11,P0009,4,Wholesaler,Online,0
+2021-07-13,P0019,1,Direct Sales,Cash,0
+2021-07-16,P0023,8,Wholesaler,Cash,0
+2021-07-18,P0027,14,Online,Online,0
+2021-07-20,P0038,11,Online,Online,0
+2021-07-20,P0043,5,Direct Sales,Online,0
+2021-07-21,P0029,15,Direct Sales,Online,0
+2021-07-22,P0026,3,Wholesaler,Cash,0
+2021-07-22,P0024,14,Online,Cash,0
+2021-07-23,P0036,7,Wholesaler,Online,0
+2021-07-23,P0037,8,Direct Sales,Online,0
+2021-07-24,P0009,4,Online,Cash,0
+2021-07-29,P0044,15,Online,Cash,0
+2021-08-01,P0001,11,Direct Sales,Cash,0
+2021-08-02,P0023,3,Direct Sales,Online,0
+2021-08-03,P0022,13,Online,Online,0
+2021-08-03,P0034,12,Online,Online,0
+2021-08-05,P0028,14,Direct Sales,Cash,0
+2021-08-06,P0037,1,Wholesaler,Cash,0
+2021-08-10,P0005,4,Wholesaler,Cash,0
+2021-08-10,P0044,10,Online,Cash,0
+2021-08-10,P0006,6,Direct Sales,Cash,0
+2021-08-11,P0023,4,Direct Sales,Online,0
+2021-08-13,P0011,13,Direct Sales,Online,0
+2021-08-13,P0027,9,Direct Sales,Online,0
+2021-08-16,P0003,3,Online,Online,0
+2021-08-18,P0025,6,Direct Sales,Online,0
+2021-08-20,P0020,15,Direct Sales,Cash,0
+2021-08-20,P0031,9,Direct Sales,Online,0
+2021-08-20,P0028,13,Direct Sales,Online,0
+2021-08-26,P0039,4,Direct Sales,Online,0
+2021-08-29,P0034,12,Wholesaler,Online,0
+2021-08-30,P0013,13,Direct Sales,Online,0
+2021-08-31,P0001,2,Direct Sales,Online,0
+2021-08-31,P0035,11,Direct Sales,Online,0
+2021-09-01,P0024,1,Wholesaler,Cash,0
+2021-09-01,P0003,14,Online,Online,0
+2021-09-03,P0041,8,Direct Sales,Online,0
+2021-09-04,P0028,7,Direct Sales,Online,0
+2021-09-04,P0023,15,Direct Sales,Online,0
+2021-09-05,P0032,1,Direct Sales,Cash,0
+2021-09-07,P0019,5,Direct Sales,Online,0
+2021-09-09,P0044,4,Direct Sales,Online,0
+2021-09-10,P0030,6,Direct Sales,Online,0
+2021-09-10,P0001,9,Wholesaler,Online,0
+2021-09-10,P0026,2,Direct Sales,Online,0
+2021-09-11,P0001,6,Wholesaler,Online,0
+2021-09-13,P0041,7,Direct Sales,Cash,0
+2021-09-15,P0042,6,Direct Sales,Online,0
+2021-09-15,P0042,14,Direct Sales,Online,0
+2021-09-21,P0020,7,Wholesaler,Cash,0
+2021-09-22,P0040,2,Online,Cash,0
+2021-09-22,P0002,4,Direct Sales,Cash,0
+2021-09-23,P0018,12,Direct Sales,Cash,0
+2021-09-23,P0021,7,Online,Online,0
+2021-09-27,P0034,1,Direct Sales,Cash,0
+2021-09-30,P0014,9,Online,Online,0
+2021-09-30,P0006,5,Online,Online,0
+2021-10-01,P0030,14,Online,Cash,0
+2021-10-02,P0014,15,Direct Sales,Online,0
+2021-10-03,P0019,9,Direct Sales,Online,0
+2021-10-06,P0035,1,Direct Sales,Online,0
+2021-10-06,P0036,12,Online,Online,0
+2021-10-07,P0026,6,Direct Sales,Cash,0
+2021-10-09,P0038,5,Direct Sales,Cash,0
+2021-10-09,P0032,11,Online,Cash,0
+2021-10-10,P0035,14,Direct Sales,Cash,0
+2021-10-11,P0011,15,Direct Sales,Cash,0
+2021-10-12,P0027,8,Online,Online,0
+2021-10-17,P0001,13,Direct Sales,Online,0
+2021-10-18,P0025,6,Online,Cash,0
+2021-10-18,P0021,13,Online,Cash,0
+2021-10-22,P0011,7,Direct Sales,Cash,0
+2021-10-22,P0024,13,Online,Cash,0
+2021-10-22,P0009,1,Direct Sales,Cash,0
+2021-10-24,P0011,3,Wholesaler,Cash,0
+2021-10-25,P0044,9,Online,Cash,0
+2021-10-26,P0004,6,Wholesaler,Cash,0
+2021-10-28,P0008,1,Direct Sales,Cash,0
+2021-10-29,P0038,14,Online,Online,0
+2021-10-31,P0021,6,Online,Cash,0
+2021-11-03,P0013,12,Direct Sales,Cash,0
+2021-11-06,P0036,10,Direct Sales,Online,0
+2021-11-08,P0007,15,Direct Sales,Online,0
+2021-11-10,P0042,6,Online,Cash,0
+2021-11-11,P0040,12,Wholesaler,Online,0
+2021-11-12,P0010,3,Online,Cash,0
+2021-11-20,P0034,14,Online,Online,0
+2021-11-20,P0008,11,Online,Cash,0
+2021-11-21,P0014,1,Wholesaler,Online,0
+2021-11-21,P0006,1,Online,Cash,0
+2021-11-27,P0012,8,Online,Online,0
+2021-11-28,P0040,2,Direct Sales,Cash,0
+2021-11-30,P0039,15,Direct Sales,Online,0
+2021-12-02,P0016,10,Direct Sales,Cash,0
+2021-12-03,P0034,2,Online,Cash,0
+2021-12-03,P0019,8,Online,Online,0
+2021-12-05,P0004,15,Direct Sales,Cash,0
+2021-12-05,P0010,1,Direct Sales,Online,0
+2021-12-07,P0013,8,Direct Sales,Online,0
+2021-12-08,P0044,14,Direct Sales,Online,0
+2021-12-14,P0042,4,Direct Sales,Online,0
+2021-12-18,P0003,2,Direct Sales,Cash,0
+2021-12-18,P0022,8,Online,Cash,0
+2021-12-19,P0023,12,Direct Sales,Online,0
+2021-12-19,P0029,3,Wholesaler,Online,0
+2021-12-19,P0011,10,Online,Online,0
+2021-12-20,P0012,14,Direct Sales,Online,0
+2021-12-21,P0026,10,Online,Cash,0
+2021-12-24,P0042,8,Wholesaler,Cash,0
+2021-12-24,P0036,8,Wholesaler,Online,0
+2021-12-26,P0041,14,Online,Cash,0
+2021-12-27,P0029,14,Direct Sales,Cash,0
+2021-12-28,P0029,6,Direct Sales,Cash,0
+2021-12-30,P0010,13,Online,Online,0
+2022-01-01,P0022,1,Wholesaler,Cash,0
+2022-01-02,P0010,7,Direct Sales,Cash,0
+2022-01-02,P0015,2,Online,Cash,0
+2022-01-02,P0033,1,Direct Sales,Cash,0
+2022-01-03,P0043,9,Direct Sales,Cash,0
+2022-01-04,P0012,8,Direct Sales,Online,0
+2022-01-04,P0029,1,Online,Online,0
+2022-01-09,P0032,12,Direct Sales,Online,0
+2022-01-10,P0034,14,Online,Online,0
+2022-01-11,P0032,2,Direct Sales,Online,0
+2022-01-13,P0019,6,Online,Online,0
+2022-01-14,P0011,14,Direct Sales,Online,0
+2022-01-15,P0022,10,Direct Sales,Cash,0
+2022-01-16,P0014,11,Online,Cash,0
+2022-01-17,P0040,4,Online,Online,0
+2022-01-18,P0008,9,Wholesaler,Cash,0
+2022-01-20,P0021,2,Direct Sales,Cash,0
+2022-01-20,P0014,7,Online,Online,0
+2022-01-22,P0001,6,Online,Cash,0
+2022-01-23,P0002,5,Wholesaler,Cash,0
+2022-01-23,P0042,8,Direct Sales,Online,0
+2022-01-24,P0030,15,Online,Online,0
+2022-01-25,P0017,14,Direct Sales,Cash,0
+2022-01-28,P0016,11,Direct Sales,Online,0
+2022-01-31,P0023,6,Online,Cash,0
+2022-01-31,P0041,9,Direct Sales,Cash,0
+2022-02-01,P0005,9,Direct Sales,Cash,0
+2022-02-03,P0014,8,Direct Sales,Online,0
+2022-02-05,P0018,6,Direct Sales,Cash,0
+2022-02-06,P0002,6,Direct Sales,Cash,0
+2022-02-08,P0005,11,Online,Cash,0
+2022-02-08,P0004,3,Online,Cash,0
+2022-02-09,P0032,14,Online,Online,0
+2022-02-12,P0010,13,Direct Sales,Cash,0
+2022-02-14,P0026,8,Online,Cash,0
+2022-02-14,P0028,3,Direct Sales,Cash,0
+2022-02-16,P0032,1,Online,Cash,0
+2022-02-19,P0002,13,Online,Cash,0
+2022-02-20,P0012,6,Direct Sales,Cash,0
+2022-02-23,P0013,6,Online,Online,0
+2022-02-23,P0016,15,Online,Cash,0
+2022-02-23,P0036,8,Direct Sales,Online,0
+2022-02-27,P0012,7,Direct Sales,Cash,0
+2022-02-27,P0005,15,Direct Sales,Online,0
+2022-02-28,P0037,15,Direct Sales,Cash,0
+2022-03-04,P0026,13,Wholesaler,Online,0
+2022-03-06,P0004,2,Direct Sales,Cash,0
+2022-03-07,P0003,1,Direct Sales,Cash,0
+2022-03-08,P0044,6,Direct Sales,Online,0
+2022-03-09,P0030,3,Direct Sales,Online,0
+2022-03-09,P0004,11,Online,Cash,0
+2022-03-10,P0033,12,Wholesaler,Online,0
+2022-03-14,P0016,2,Direct Sales,Cash,0
+2022-03-14,P0026,13,Direct Sales,Online,0
+2022-03-18,P0019,2,Online,Cash,0
+2022-03-18,P0027,10,Direct Sales,Cash,0
+2022-03-19,P0041,6,Wholesaler,Cash,0
+2022-03-23,P0032,9,Direct Sales,Cash,0
+2022-03-25,P0001,2,Wholesaler,Online,0
+2022-03-25,P0030,11,Direct Sales,Online,0
+2022-03-29,P0032,12,Online,Online,0
+2022-03-30,P0001,13,Online,Cash,0
+2022-04-01,P0002,2,Online,Cash,0
+2022-04-02,P0002,3,Direct Sales,Cash,0
+2022-04-06,P0040,2,Wholesaler,Cash,0
+2022-04-07,P0026,7,Direct Sales,Online,0
+2022-04-09,P0039,12,Wholesaler,Cash,0
+2022-04-09,P0002,9,Online,Online,0
+2022-04-13,P0016,14,Wholesaler,Online,0
+2022-04-18,P0041,9,Direct Sales,Cash,0
+2022-04-20,P0018,2,Wholesaler,Online,0
+2022-04-20,P0012,4,Direct Sales,Online,0
+2022-04-21,P0030,2,Direct Sales,Cash,0
+2022-04-21,P0026,14,Online,Online,0
+2022-04-23,P0044,15,Online,Online,0
+2022-04-24,P0034,4,Direct Sales,Online,0
+2022-04-25,P0004,9,Direct Sales,Cash,0
+2022-04-25,P0003,8,Online,Online,0
+2022-04-26,P0027,2,Direct Sales,Cash,0
+2022-04-28,P0014,14,Direct Sales,Cash,0
+2022-04-30,P0016,13,Online,Online,0
+2022-04-30,P0027,8,Direct Sales,Online,0
+2022-05-01,P0034,9,Wholesaler,Online,0
+2022-05-01,P0033,6,Online,Online,0
+2022-05-02,P0013,4,Online,Cash,0
+2022-05-04,P0020,10,Direct Sales,Online,0
+2022-05-06,P0034,7,Direct Sales,Online,0
+2022-05-07,P0015,4,Online,Cash,0
+2022-05-07,P0027,1,Online,Online,0
+2022-05-08,P0022,7,Online,Online,0
+2022-05-09,P0017,12,Wholesaler,Cash,0
+2022-05-10,P0009,6,Direct Sales,Online,0
+2022-05-12,P0011,7,Online,Cash,0
+2022-05-13,P0012,5,Direct Sales,Online,0
+2022-05-14,P0008,14,Direct Sales,Cash,0
+2022-05-15,P0020,5,Online,Online,0
+2022-05-16,P0010,13,Direct Sales,Cash,0
+2022-05-16,P0031,13,Online,Online,0
+2022-05-17,P0027,8,Direct Sales,Cash,0
+2022-05-18,P0027,4,Wholesaler,Online,0
+2022-05-18,P0038,8,Wholesaler,Online,0
+2022-05-20,P0044,15,Online,Cash,0
+2022-05-22,P0015,12,Direct Sales,Online,0
+2022-05-25,P0002,7,Online,Online,0
+2022-05-26,P0028,2,Direct Sales,Online,0
+2022-05-26,P0027,2,Online,Online,0
+2022-05-28,P0041,10,Wholesaler,Cash,0
+2022-05-28,P0008,5,Wholesaler,Online,0
+2022-05-28,P0010,9,Online,Cash,0
+2022-05-28,P0004,12,Online,Online,0
+2022-05-28,P0020,14,Direct Sales,Cash,0
+2022-05-30,P0044,9,Direct Sales,Online,0
+2022-05-30,P0005,4,Wholesaler,Cash,0
+2022-05-30,P0033,3,Online,Cash,0
+2022-06-03,P0008,14,Online,Online,0
+2022-06-10,P0028,8,Wholesaler,Online,0
+2022-06-11,P0039,13,Online,Cash,0
+2022-06-11,P0021,6,Direct Sales,Online,0
+2022-06-13,P0026,6,Direct Sales,Cash,0
+2022-06-15,P0042,15,Wholesaler,Online,0
+2022-06-16,P0029,15,Online,Cash,0
+2022-06-19,P0002,8,Direct Sales,Cash,0
+2022-06-21,P0017,14,Direct Sales,Cash,0
+2022-06-22,P0040,10,Online,Cash,0
+2022-06-22,P0001,4,Direct Sales,Cash,0
+2022-06-23,P0004,8,Direct Sales,Online,0
+2022-06-24,P0018,7,Direct Sales,Cash,0
+2022-06-25,P0012,7,Online,Online,0
+2022-06-26,P0034,4,Direct Sales,Cash,0
+2022-06-26,P0043,12,Direct Sales,Online,0
+2022-07-03,P0033,15,Direct Sales,Cash,0
+2022-07-04,P0007,7,Direct Sales,Online,0
+2022-07-05,P0025,7,Online,Cash,0
+2022-07-05,P0015,8,Direct Sales,Online,0
+2022-07-06,P0041,2,Direct Sales,Cash,0
+2022-07-08,P0018,2,Direct Sales,Online,0
+2022-07-10,P0032,12,Online,Cash,0
+2022-07-12,P0028,12,Direct Sales,Cash,0
+2022-07-13,P0025,7,Direct Sales,Online,0
+2022-07-14,P0033,9,Direct Sales,Online,0
+2022-07-15,P0004,2,Online,Online,0
+2022-07-17,P0041,8,Online,Cash,0
+2022-07-18,P0010,12,Direct Sales,Online,0
+2022-07-20,P0042,8,Wholesaler,Online,0
+2022-07-22,P0034,6,Direct Sales,Cash,0
+2022-07-23,P0018,2,Online,Online,0
+2022-07-24,P0006,14,Direct Sales,Cash,0
+2022-07-24,P0027,1,Online,Online,0
+2022-07-25,P0044,2,Direct Sales,Cash,0
+2022-07-25,P0017,12,Direct Sales,Cash,0
+2022-07-25,P0003,13,Online,Cash,0
+2022-07-26,P0003,10,Online,Online,0
+2022-07-26,P0026,1,Online,Cash,0
+2022-08-03,P0012,5,Direct Sales,Cash,0
+2022-08-06,P0016,9,Online,Online,0
+2022-08-08,P0016,2,Direct Sales,Online,0
+2022-08-08,P0032,12,Direct Sales,Cash,0
+2022-08-08,P0021,11,Direct Sales,Cash,0
+2022-08-14,P0030,14,Direct Sales,Cash,0
+2022-08-15,P0011,10,Wholesaler,Cash,0
+2022-08-15,P0015,7,Direct Sales,Online,0
+2022-08-18,P0029,8,Online,Online,0
+2022-08-18,P0010,2,Online,Cash,0
+2022-08-19,P0007,3,Online,Online,0
+2022-08-20,P0023,13,Direct Sales,Online,0
+2022-08-20,P0033,14,Direct Sales,Online,0
+2022-08-21,P0016,4,Direct Sales,Online,0
+2022-08-23,P0044,11,Online,Online,0
+2022-08-23,P0029,14,Direct Sales,Cash,0
+2022-08-24,P0005,5,Direct Sales,Cash,0
+2022-08-26,P0019,13,Wholesaler,Cash,0
+2022-08-26,P0037,8,Online,Online,0
+2022-08-27,P0039,15,Wholesaler,Online,0
+2022-08-28,P0005,9,Online,Online,0
+2022-08-28,P0039,5,Direct Sales,Online,0
+2022-08-30,P0006,6,Online,Cash,0
+2022-08-30,P0043,6,Direct Sales,Cash,0
+2022-08-30,P0025,5,Direct Sales,Cash,0
+2022-08-31,P0015,13,Direct Sales,Cash,0
+2022-09-04,P0002,1,Direct Sales,Cash,0
+2022-09-06,P0005,12,Wholesaler,Online,0
+2022-09-09,P0041,9,Direct Sales,Online,0
+2022-09-09,P0003,3,Direct Sales,Online,0
+2022-09-10,P0035,15,Online,Cash,0
+2022-09-10,P0038,4,Direct Sales,Cash,0
+2022-09-14,P0029,3,Direct Sales,Cash,0
+2022-09-15,P0037,15,Online,Online,0
+2022-09-18,P0026,14,Online,Cash,0
+2022-09-19,P0033,8,Wholesaler,Cash,0
+2022-09-20,P0033,6,Direct Sales,Online,0
+2022-09-20,P0001,10,Direct Sales,Online,0
+2022-09-21,P0018,14,Online,Online,0
+2022-09-21,P0026,5,Direct Sales,Cash,0
+2022-09-22,P0043,12,Online,Online,0
+2022-09-23,P0012,12,Direct Sales,Online,0
+2022-09-24,P0032,14,Direct Sales,Online,0
+2022-09-24,P0032,8,Direct Sales,Cash,0
+2022-09-27,P0036,4,Direct Sales,Cash,0
+2022-09-27,P0044,9,Direct Sales,Cash,0
+2022-09-27,P0038,3,Wholesaler,Cash,0
+2022-09-29,P0034,13,Direct Sales,Online,0
+2022-10-03,P0011,5,Direct Sales,Cash,0
+2022-10-04,P0007,15,Direct Sales,Online,0
+2022-10-06,P0035,1,Direct Sales,Online,0
+2022-10-09,P0038,14,Online,Online,0
+2022-10-10,P0019,9,Direct Sales,Online,0
+2022-10-10,P0044,12,Online,Online,0
+2022-10-11,P0008,10,Direct Sales,Online,0
+2022-10-13,P0002,15,Online,Online,0
+2022-10-14,P0044,15,Wholesaler,Online,0
+2022-10-15,P0015,10,Direct Sales,Cash,0
+2022-10-16,P0036,3,Online,Online,0
+2022-10-23,P0024,14,Online,Cash,0
+2022-10-30,P0042,3,Direct Sales,Cash,0
+2022-10-31,P0038,8,Direct Sales,Online,0
+2022-11-01,P0012,15,Wholesaler,Online,0
+2022-11-02,P0015,15,Wholesaler,Cash,0
+2022-11-02,P0030,15,Direct Sales,Cash,0
+2022-11-02,P0035,5,Direct Sales,Cash,0
+2022-11-03,P0020,11,Online,Online,0
+2022-11-04,P0008,10,Direct Sales,Online,0
+2022-11-05,P0019,15,Direct Sales,Cash,0
+2022-11-06,P0043,13,Direct Sales,Cash,0
+2022-11-06,P0015,13,Online,Online,0
+2022-11-06,P0042,13,Direct Sales,Cash,0
+2022-11-07,P0040,13,Online,Cash,0
+2022-11-08,P0036,11,Wholesaler,Cash,0
+2022-11-08,P0019,10,Wholesaler,Online,0
+2022-11-09,P0027,8,Online,Cash,0
+2022-11-10,P0018,7,Direct Sales,Online,0
+2022-11-13,P0027,10,Wholesaler,Cash,0
+2022-11-14,P0002,1,Direct Sales,Cash,0
+2022-11-15,P0012,14,Direct Sales,Cash,0
+2022-11-16,P0017,8,Online,Online,0
+2022-11-18,P0034,8,Direct Sales,Cash,0
+2022-11-21,P0020,6,Direct Sales,Cash,0
+2022-11-23,P0036,12,Online,Online,0
+2022-11-25,P0004,5,Direct Sales,Cash,0
+2022-11-26,P0032,5,Direct Sales,Online,0
+2022-11-27,P0034,15,Direct Sales,Online,0
+2022-11-28,P0031,8,Direct Sales,Cash,0
+2022-11-30,P0015,2,Direct Sales,Online,0
+2022-12-03,P0028,5,Wholesaler,Cash,0
+2022-12-04,P0026,10,Direct Sales,Cash,0
+2022-12-04,P0044,15,Direct Sales,Cash,0
+2022-12-07,P0038,12,Direct Sales,Cash,0
+2022-12-07,P0016,13,Direct Sales,Online,0
+2022-12-07,P0038,5,Direct Sales,Cash,0
+2022-12-11,P0027,5,Direct Sales,Online,0
+2022-12-11,P0013,9,Wholesaler,Online,0
+2022-12-11,P0014,10,Online,Cash,0
+2022-12-12,P0030,9,Wholesaler,Cash,0
+2022-12-12,P0041,10,Wholesaler,Online,0
+2022-12-14,P0005,4,Direct Sales,Cash,0
+2022-12-15,P0009,13,Direct Sales,Online,0
+2022-12-19,P0044,7,Direct Sales,Online,0
+2022-12-19,P0011,14,Direct Sales,Cash,0
+2022-12-19,P0009,11,Online,Online,0
+2022-12-21,P0006,10,Direct Sales,Online,0
+2022-12-29,P0008,15,Direct Sales,Online,0
+2022-12-29,P0042,1,Wholesaler,Cash,0
+2022-12-30,P0041,14,Direct Sales,Online,0
+2022-12-31,P0033,12,Online,Online,0
+2022-12-31,P0011,6,Online,Online,0
+2022-12-31,P0011,3,Wholesaler,Cash,0
