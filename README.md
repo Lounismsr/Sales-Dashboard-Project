@@ -5,7 +5,7 @@ tableau de bord interactif sous Power BI, complétée par une analyse Python (pa
 des insights business concrets à partir des données brutes.
 
 > Projet réalisé dans le cadre d'un exposé universitaire sur les techniques de dashboarding et de
-> data visualization (M2, [année]).
+> data visualization — Master 1 Science des données et aide à la décision, Université Abderrahmane Mira de Béjaïa.
 
 ## 🎯 Objectif
 
@@ -16,7 +16,7 @@ mode de paiement, et évolution temporelle des ventes.
 ## 🗂️ Structure du repo
 
 ```
-sales-dashboard-project/
+Sales-Dashboard-Project/
 ├── data/
 │   ├── raw/
 │   │   ├── input_data.csv      # 527 transactions (date, produit, quantité, canal, paiement, remise)
@@ -25,8 +25,12 @@ sales-dashboard-project/
 ├── notebooks/
 │   └── analysis.py             # script pandas : jointure, KPI, graphiques
 ├── reports/
-│   └── dashboard_powerbi.pbix  # tableau de bord Power BI (filtres interactifs)
+│   ├── dashboard_powerbi.pbix          # tableau de bord Power BI (filtres interactifs)
+│   ├── presentation_dashboarding.pptx  # présentation de l'exposé
+│   ├── rapport.pdf                     # rapport de l'exposé
+│   └── README.md
 ├── images/                     # graphiques exportés (voir ci-dessous)
+├── requirements.txt            # dépendances Python
 └── README.md
 ```
 
@@ -100,7 +104,9 @@ sales-dashboard-project/
 ## ▶️ Reproduire l'analyse
 
 ```bash
-pip install pandas matplotlib
-cd notebooks
-python analysis.py
+pip install -r requirements.txt
+python notebooks/analysis.py
 ```
+
+Le script peut être lancé depuis n'importe quel dossier : il régénère `data/sales_merged.csv`
+et les graphiques du dossier `images/`.
